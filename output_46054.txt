@@ -1,0 +1,4 @@
+Total Waves, Hs = 8.2, Tp = 8.3, Tm = 6.9, Dm = 310 
+Partition #1, Hs = 1.3, Tp = 14.7, Tm = 15.0, Dm = 243 
+Partition #2, Hs = 8.0, Tp = 8.3, Tm = 7.0, Dm = 313 
+Partition #3, Hs = 1.7, Tp = 3.6, Tm = 3.3, Dm = 313 
